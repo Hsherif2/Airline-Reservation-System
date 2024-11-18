@@ -7,7 +7,8 @@ Sprint 1:
      - [x] README.md with an overview of the project.
     - [x] projectroadmap.md to track progress.
 - [x] Research and test similar Python code repositories
-- [ ] Submit URL of findings to the project roadmap
+- [x] Submit URL of findings to the project roadmap
+      https://github.com/fx420/AirlinesReservationSystem.git
 - [x] Create and turn in Exercise 6
 
  Sprint 2: 
