@@ -18,8 +18,7 @@ Sprint 1:
 - [ ] Make small updates and commit detailed messages to the repository:
     - [ ] Include at least six significant code changes 
     - [ ] Each commit must explain what was updated and why
-- [ ] Design the interface for a Flask-based website
-- [ ] Build the Flask extension and integrate it with the Python
+- [ ] Design the interface possibly with Flask-based website
 - [ ] Test the usability and debug the application
 
 Sprint 3:
