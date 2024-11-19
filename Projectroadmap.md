@@ -14,10 +14,10 @@ Sprint 1:
  Sprint 2: 
 
 - [x] Begin building the Python code for the project
-- [ ] Draw inspiration from existing Python projects and integrate relevant parts 
-- [ ] Make small updates and commit detailed messages to the repository:
-    - [ ] Include at least six significant code changes 
-    - [ ] Each commit must explain what was updated and why
+- [x] Draw inspiration from existing Python projects and integrate relevant parts 
+- [x] Make small updates and commit detailed messages to the repository:
+    - [x] Include at least six significant code changes 
+    - [x] Each commit must explain what was updated and why
 - [ ] Design the interface possibly with Flask-based website
 - [ ] Test the usability and debug the application
 
