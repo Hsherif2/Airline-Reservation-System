@@ -34,6 +34,7 @@ Sprint 3:
 - [ ] Prepare for the presentation:
      - [ ] Assign a presentation time on Teams.
      - [ ] Practice presenting to ensure clarity and confidence
+     - [ ] testing github desktop and VS 
 
       
      
