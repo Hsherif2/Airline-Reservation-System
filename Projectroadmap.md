@@ -1,8 +1,8 @@
 Sprint 1: 
 - [x] Choose a project topic and submit it for approval
 - [x] Wait for topic approval
-- [ ] Join the KSU-IS organization on GitHub through email
-- [ ] Fork your Repo to KSU-IS organization
+- [x] Join the KSU-IS organization on GitHub through email
+- [x] Fork your Repo to KSU-IS organization
 - [x] Create and commit the following files:
      - [x] README.md with an overview of the project.
     - [x] projectroadmap.md to track progress.
