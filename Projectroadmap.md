@@ -18,19 +18,19 @@ Sprint 1:
 - [x] Make small updates and commit detailed messages to the repository:
     - [x] Include at least six significant code changes 
     - [x] Each commit must explain what was updated and why
-- [ ] Design the interface possibly with Flask-based website
-- [ ] Test the usability and debug the application
+- [x] Design the interface possibly 
+- [x] Test the usability and debug the application
 
 Sprint 3:
 
-- [ ] Conduct a final review of the code and project and ensure the project meets all requirements
-- [ ] Create a PowerPoint presentation with the following elements:
-     - [ ]  Title of the project
-     - [ ]  A tagline introducing the main concept.
-     - [ ]  1-2 screenshots or images demonstrating the project idea
-     - [ ]  Key features of the project.
-- [ ] Attach a link to the project in the PowerPoint
-- [ ] Upload the PowerPoint to GitHub and submit it to D2L
+- [x] Conduct a final review of the code and project and ensure the project meets all requirements
+- [x] Create a PowerPoint presentation with the following elements:
+     - [x]  Title of the project
+     - [x]  A tagline introducing the main concept.
+     - [x]  1-2 screenshots or images demonstrating the project idea
+     - [x]  Key features of the project.
+- [x] Attach a link to the project in the PowerPoint
+- [x] Upload the PowerPoint to GitHub and submit it to D2L
 - [ ] Prepare for the presentation:
      - [ ] Assign a presentation time on Teams.
      - [ ] Practice presenting to ensure clarity and confidence
