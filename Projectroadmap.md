@@ -32,7 +32,7 @@ Sprint 3:
 - [x] Attach a link to the project in the PowerPoint
 - [x] Upload the PowerPoint to GitHub and submit it to D2L
 - [ ] Prepare for the presentation:
-     - [ ] Assign a presentation time on Teams.
+     - [x] Assign a presentation time on Teams.
      - [ ] Practice presenting to ensure clarity and confidence
      - [ ] testing github desktop and VS 
 
